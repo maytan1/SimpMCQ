@@ -45,7 +45,7 @@ http://java.com/download
 
 Contact Info:
 
-Website  : http://www.simpmcq.tanmaydesigns.in
+Website  : http://techxp.me/projects/simpmcq
 
 Feedback : contact@techxp.me
 

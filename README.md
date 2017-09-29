@@ -1,4 +1,5 @@
-#Introduction:
+# Introduction:
+=========================================
 
 SimpMCQ is a Java based application which helps in practicing for JEE (Main) at home. It is a Free and
 Open Source software by TanmayDesigns licensed under Apache 2.0 License. It consists of two parts-
@@ -8,7 +9,8 @@ Open Source software by TanmayDesigns licensed under Apache 2.0 License. It cons
 In the "Test Mode", the user can select and give pre-created tests (.smt files). In "Test Creation Mode",
 the user can create their own tests for sharing with friends or for themselves.
 
-#Instructions:
+# Instructions:
+=========================================
 
 A. Test Mode
 
